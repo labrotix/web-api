@@ -45,4 +45,4 @@ https://www.labrotix.com/api
 -
 info@labrotix.com
 -
-https://discord.gg/yXxAGU7
+https://discord.gg/Ek4Z5sJ
